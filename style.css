@@ -1,0 +1,92 @@
+body{
+    background-color: deeppink;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 22px;
+    color:black;
+}
+
+#heading{
+    margin-top:0px;
+    background-color: white;
+    width:50%;
+
+}
+#heading img{
+
+width:100px;
+
+}
+
+#camera_div{
+
+background-color: aquamarine;
+margin-top: 15px;
+padding-bottom: 420px;
+border:3px solid black;
+margin-left:200px;
+padding-left:30px;
+height:400px;
+width:450px;
+margin-bottom: 10px;
+}
+
+#camera_div label{
+
+background-color:white;
+width:310px;
+padding:10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px black;
+margin-top:10px;
+}
+
+#camera, #result{
+
+border:2px solid black;
+width:310px;
+height:300px;
+margin-top:5px;
+box-shadow: 5px 5px 18px black;
+}
+
+
+#camera_div button{
+
+width:310px;
+border:1px solid black;
+box-shadow: 5px 5px 18px black;
+margin-top:10px;
+}
+
+
+
+.footer_div{
+    margin-bottom: 100px;
+    margin-left:350px;
+
+}
+
+
+.footer_div h4{
+    background:grey;
+    padding:5px;
+    border-radius:10px;
+    box-shadow: 5px 5px 18px black;
+}
+
+
+.footer_div img{
+    width:70px;
+}
+
+.copyright_footer{
+
+
+position:fixed;
+color:black;
+bottom:0;
+width:100%;
+line-height:3;
+text-align: center;
+}
